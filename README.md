@@ -1,2 +1,2 @@
-# picgo_pictures
-picgo 图床
+# picgo
+picgo + typora 图床
